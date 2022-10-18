@@ -1,3 +1,7 @@
+<div align="left">
+    <img src="https://komarev.com/ghpvc/?username=pmakani&style=for-the-badge">
+</div>
+
 - 🔭 I’m Praful Makani.
 
 ### Connect with me:
